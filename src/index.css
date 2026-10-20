@@ -29,3 +29,7 @@
   --color-accent: var(--accent);
   --color-on-accent: var(--on-accent);
 }
+
+html {
+  scroll-behavior: smooth;
+}
